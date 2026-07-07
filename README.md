@@ -40,8 +40,8 @@ google-genai>=0.3.0
 
 1. **Clone repository ini**
    ```bash
-   git clone https://github.com/<username-kamu>/<nama-repo>.git
-   cd <nama-repo>
+   git clone https://github.com/williamyuei/Hactiv8Chatbot.git
+   cd Hactiv8Chatbot
    ```
 
 2. **(Opsional tapi disarankan) Buat virtual environment**
@@ -92,7 +92,3 @@ setiap kali dijalankan, sehingga key tidak pernah tersimpan di dalam kode.
 - [Streamlit](https://streamlit.io/) — framework antarmuka web
 - [Google Gemini API](https://ai.google.dev/) (`gemini-2.5-flash`) — model NLP/LLM
 - Python `json` & `os` — penyimpanan memory persisten
-
-## 📄 Lisensi
-
-Proyek ini dibuat untuk keperluan akademik (final project).
